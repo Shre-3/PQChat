@@ -1,6 +1,5 @@
 // src/firebase.js
 
-
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
@@ -10,12 +9,12 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "my firebase api key",
+  apiKey: "AIzaSyC6xbu-keOE2GLWFFZ4hBAFmZr5TXjvSX4",
   authDomain: "pqchat-app.firebaseapp.com",
   projectId: "pqchat-app",
-  storageBucket: "pqchat-app.firebasestorage.app",
+  storageBucket: "pqchat-app.appspot.com",
   messagingSenderId: "970955153659",
-  appId: "1:970955153659:web:df7af3a7e67357f067d05e"
+  appId: "1:970955153659:web:df7af3a7e67357f067d05e",
 };
 
 // Initialize Firebase
