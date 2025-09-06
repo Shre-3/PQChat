@@ -1,6 +1,6 @@
 # PQChat
 
-A post-quantum secure chat application using Kyber for key encapsulation and Dilithium for digital signatures.
+A post-quantum secure chat application using Kyber for key encapsulation facilitating a quantum safe messaging experience.
 
 ## Features
 
@@ -17,7 +17,7 @@ A post-quantum secure chat application using Kyber for key encapsulation and Dil
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository
 
 2. Install dependencies:
 
