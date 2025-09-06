@@ -8,7 +8,6 @@ A post-quantum secure chat application using Kyber for key encapsulation and Dil
 - Real-time messaging using WebSocket
 - Modern React UI with Tailwind CSS
 - Kyber for key encapsulation
-- Dilithium for digital signatures
 - AES-GCM for symmetric encryption
 
 ## Prerequisites
@@ -19,11 +18,6 @@ A post-quantum secure chat application using Kyber for key encapsulation and Dil
 ## Installation
 
 1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/pqchat.git
-cd pqchat
-```
 
 2. Install dependencies:
 
@@ -62,9 +56,8 @@ npm start
 This application uses post-quantum cryptography to ensure security against quantum computers:
 
 - Kyber for key encapsulation (KEM)
-- Dilithium for digital signatures
 - AES-GCM for symmetric encryption
-- HKDF for key derivation
+- MLKEM for key derivation
 
 ## License
 
